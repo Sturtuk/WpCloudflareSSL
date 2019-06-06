@@ -1,4 +1,4 @@
-# WpCloudflareSSL
+# Enable Cloudflare Flexible SSL
 Enable Cloudlfare Flexible ssl on shared hosting
 
 ```php
